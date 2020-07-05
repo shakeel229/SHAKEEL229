@@ -1,5 +1,41 @@
+
+.hero{
+    background-image: url(banner.jpg);
+    width: 100vw;
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+}
+
+.hero nav{
+    align-self: flex-end;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.hero a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    background-color: black;
+}
+.hero h2 , .hero h1 {
+   /* background-color: antiquewhite; */
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 90;
+}
+.hero h2{
+    
+    background-color: none;
+}
 body {
     font-family: 'Lato', sans-serif;
+    margin: 0px;
+}
+main {
+    margin-left: 15px;
 }
 h1 {
     background-color: royalblue;
