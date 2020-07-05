@@ -12,3 +12,8 @@ img {
     border-radius: 3px;
     border: yellowgreen;
 }
+footer{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px;
+}
