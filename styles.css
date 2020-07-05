@@ -1,3 +1,9 @@
 body {
     font-family: 'Lato', sans-serif;
 }
+h1 {
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
